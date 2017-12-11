@@ -6,13 +6,13 @@
         color: orange;
         font-size: 55;
         padding: 15px 32px;
-        text-align: center;
+        text-align: center
     }
     
     img {
         display: block;
         margin: auto;
-        width: 79.2%;
+        width: 40%;
         padding: 40px;
     }
 
@@ -25,11 +25,11 @@
     }
     
     a:hover {
-        background-color: green;
+        background-color: black;
     }
     
     .button {
-        background-color: #4CAF50;
+        background-color: ;
         font-size: 20px;
         cursor: pointer;
         padding: 15px 32px;
@@ -39,7 +39,6 @@
         text-align: center;
         text-decoration: none;
         
-        
     }
     
     body {
@@ -48,7 +47,7 @@
     
     
     .button-layout {
-        background-color: #4CAF50;
+        background-color: #393939;
         margin: 1px 70px
     }
     
@@ -60,11 +59,12 @@
         </h1>
         
  
+        <div class=button-layout>
                 <a href="#" class=button><b>home</b></a>
                 <a href="#" class=button><b>about</b></a>
                 <a href="#" class=button><b>contact</b></a>
                 <a href="#" class=button><b>pictures</b></a>
-
+        </div>
         
     <img src="https://heydesign.com/wp-content/uploads/2017/08/Cool-Logos-and-Graphic-Trends-about-Music-DJs-360x240.jpg">
         
