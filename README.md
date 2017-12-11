@@ -39,6 +39,7 @@
         text-align: center;
         text-decoration: none;
         
+        
     }
     
     body {
@@ -59,12 +60,11 @@
         </h1>
         
  
-        <div class=button-layout>
                 <a href="#" class=button><b>home</b></a>
                 <a href="#" class=button><b>about</b></a>
                 <a href="#" class=button><b>contact</b></a>
                 <a href="#" class=button><b>pictures</b></a>
-        </div>
+
         
     <img src="https://heydesign.com/wp-content/uploads/2017/08/Cool-Logos-and-Graphic-Trends-about-Music-DJs-360x240.jpg">
         
